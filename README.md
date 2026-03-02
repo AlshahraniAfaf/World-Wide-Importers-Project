@@ -21,6 +21,7 @@ The dashboard was built using the following tools and technologies:
 - World Wide Importers sample dataset  
 - Contains sales transactions, customer data, product details 
 - Used to simulate real-world business analytics scenarios
+[World Wide Importers Dataset](https://github.com/AlshahraniAfaf/World-Wide-Importers-Project/blob/main/World%20Wide%20Importers%20Datasets.zip)
 
 ## Features
 - Sales and profit analysis over time  
