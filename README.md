@@ -39,3 +39,7 @@ The dashboard was built using the following tools and technologies:
 - .pbix – Power BI development file
 
 ## Screenshots
+(https://github.com/AlshahraniAfaf/World-Wide-Importers-Project/blob/main/Snapshot%20of%20Report(Sales).png)
+(https://github.com/AlshahraniAfaf/World-Wide-Importers-Project/blob/main/Snapshot%20of%20Report%20(Profit).png)
+(https://github.com/AlshahraniAfaf/World-Wide-Importers-Project/blob/main/Snapshot%20of%20Report%20(Details).png)
+(https://github.com/AlshahraniAfaf/World-Wide-Importers-Project/blob/main/Snapshot%20of%20Dashboard.png)
